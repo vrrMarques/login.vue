@@ -1,4 +1,5 @@
-# portfolio_vue
+# login_vue
+```Projeto criado com vue 3 e bootstrap 5 para treinar conceitos que eu estudei, pretendo criar outro projeto em cima desse em breve```
 
 ## Project setup
 ```
